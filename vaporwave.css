@@ -1,22 +1,22 @@
 .wrapper {
-  background: url(https://64.media.tumblr.com/994bfafdc6924676a41c48b71f795edc/079b1d0ee278b7c5-b2/s500x750/72de81130d63d6a9df89470e9437563857e8e5fd.png), linear-gradient(#9740b9,#4f23bd,#a521c1,#364ed7,#9740b9);
+  background: url(https://64.media.tumblr.com/0ba8a3e9373aeff66a347e04a8e61105/079b1d0ee278b7c5-24/s500x750/ed1f74da4ffd989d3bc99038ee5600a6727b0645.png), linear-gradient(#9740b9,#4f23bd,#a521c1,#364ed7,#9740b9);
   background-size: auto auto, 6000px 6000px;
   background-repeat: no-repeat, repeat;
   background-position: bottom right, top center;
 }
 
 #outer.wrapper {
-  background: linear-gradient(	#9740b9,#4f23bd,#a521c1,#364ed7,#9740b9);
+  background: linear-gradient(  #9740b9,#4f23bd,#a521c1,#364ed7,#9740b9);
   background-size: 6000px 6000px;
 }
 
 #header {
   background: linear-gradient(#05192D,#b967ff,#05192D);
-  background-image: url(https://64.media.tumblr.com/7ba22a54cb8886b38546cfa4455b1818/4a6d13ca78b9a465-d8/s540x810/13d4e445e1f92d4b4515a3dc898f8688b7dbc347.gif);
-  background-size: 2000px 2000px;
+  background-image: url(https://64.media.tumblr.com/5437966a717ebdcbc159761064287aed/6d0326ff70dc2b46-9a/s640x960/af4d782325814df4b7d1bd2c7ec1625447c80d05.gif);
+  background-size: 100% auto;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center bottom;
+  background-position: top center;
   margin: 0px;
 }
 
@@ -41,7 +41,7 @@ li.comment {
 #header .dropdown .menu a:focus,
 #header .actions a:hover,
 #header .actions a:focus {
-  background: linear-gradient(	#C774E8,#AD8CFF) !important;
+  background: linear-gradient(  #C774E8,#AD8CFF) !important;
 }
 
 #header a,
@@ -294,7 +294,7 @@ li.relationships a {
 #header .user a:hover,
 #header .user a:focus,
 #header .user .current {
-  background: linear-gradient(	#C774E8,#AD8CFF) !important;
+  background: linear-gradient(  #C774E8,#AD8CFF) !important;
   color: white;
 }
 
@@ -362,10 +362,10 @@ tfoot {
 }
 
 p.kudos {
-  background-image: url(https://64.media.tumblr.com/ec559fbbed7a8f5d76a8b0c329dbf8c5/88659ffde28247ec-6e/s540x810/f273124585b665e6a4ef4abdd72b221564d3dc09.gif);
+  background-image: url(https://64.media.tumblr.com/936482dea728fcf424527dedfd5300b7/6d0326ff70dc2b46-f2/s640x960/b40c4a839549bcdd14acb314b3c56ee6aa4e1d5d.gif);
   background-size: 100%;
   background-position: top;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
 }
 
 #main {
