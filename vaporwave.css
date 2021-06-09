@@ -375,3 +375,6 @@ p.kudos {
 .filters .expander {
   background-color: silver;
 }
+.userstuff p {
+word-break: normal;
+}
